@@ -1,0 +1,27 @@
+[Data Source]
+DisplayName=angerboy2008@gmail.com
+Enabled=true
+Parent=f4aba4d9b7863df0c133b79edeceac1ed5a6b54a
+
+[Authentication]
+Host=smtp.gmail.com
+Method=XOAUTH2
+Port=465
+ProxyUid=system-proxy
+RememberPassword=true
+User=angerboy2008@gmail.com
+CredentialName=
+IsExternal=false
+
+[Security]
+Method=ssl-on-alternate-port
+
+[Mail Transport]
+BackendName=smtp
+
+[Smtp Backend]
+ReencodeData=false
+DsnRetFull=false
+DsnNotifySuccess=true
+DsnNotifyFailure=true
+DsnNotifyDelay=true

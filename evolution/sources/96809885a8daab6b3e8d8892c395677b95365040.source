@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=angerboy2008@gmail.com
+Enabled=true
+Parent=f4aba4d9b7863df0c133b79edeceac1ed5a6b54a
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=91a519101d2874fd2a72a00db2257814ffdf2ba6
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=angerboy2008@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none
